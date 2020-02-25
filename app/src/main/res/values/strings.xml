@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">usermanagement</string>
+    <string name="preferences_id">usermanagement</string>
+</resources>
